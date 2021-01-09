@@ -1,4 +1,5 @@
-﻿ddddusing System;
+﻿using System;
+using System.Collections.Generic;
 
 namespace Lab4
 {
@@ -6,7 +7,14 @@ namespace Lab4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var passGenerator = new Generator();
+            var passwords = passGenerator.GeneratePasswords();
+            foreach (var str in passwords)
+            {
+                Console.WriteLine(str);
+            }
+
+            Console.ReadKey();
         }
     }
 }
