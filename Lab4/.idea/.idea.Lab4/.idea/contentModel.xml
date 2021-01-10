@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_Lab4.2113906912.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_Lab4.2113906912.00" t="ExcludeRecursive" />
     <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
     <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="BCrypt.csv" t="Include" />
+      <e p="Generator.cs" t="Include" />
+      <e p="Hasher.cs" t="Include" />
       <e p="Lab4.csproj" t="IncludeRecursive" />
       <e p="Lab4.sln" t="IncludeFlat" />
+      <e p="MD5.csv" t="Include" />
+      <e p="PasswordLists" t="Include">
+        <e p="commonWords.txt" t="Include" />
+        <e p="top1M.txt" t="Include" />
+      </e>
       <e p="Program.cs" t="Include" />
+      <e p="SHA1.csv" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
